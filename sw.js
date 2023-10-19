@@ -20,7 +20,7 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 
 // !Se puede usar con "/" o sin al inicio
 const APP_SHELL = [
-    '/',
+    // '/',
     '/index.html',
     '/css/style.css',
     '/img/favicon.ico',
